@@ -1,4 +1,4 @@
---[[ Made with love, https://bobloscript.com/obfuscator ]]
+
 return (function(...)
 	local h = {
 			"g>3A3*a8m55X\"l4F(.DjqAGnUX\\F\"^,*V`t0697q:",
